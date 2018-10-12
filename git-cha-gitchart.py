@@ -2,6 +2,7 @@
 def run():
 	# Get the author name from .gitconfig and print
 	# Find gitconfig file
+	# ~/.gitconfig
 	# Open file
 	# Read name entry
 	# Output it to the screen
